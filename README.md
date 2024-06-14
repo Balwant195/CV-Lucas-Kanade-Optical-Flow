@@ -5,8 +5,6 @@ This repository contains an implementation of Lucas-Kanade Optical Flow, a metho
 ## Features
 - Efficient motion estimation between consecutive frames
 - Suitable for tracking small motion in video sequences
-- Easy-to-use interface for integration into workflows
-- Optimized for speed and accuracy
 
 ## Applications
 - Object Tracking: Follow objects' movements across frames.
